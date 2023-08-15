@@ -17,9 +17,11 @@ const Home = () => {
           <h2 className= "text-white font-black md:text-[60px] sm:text-[50px] xs:text-[40px] text-[30px]">
             I'm a <span className='text-[#915EFF]'>Java Developer</span>
           </h2>
-          <p className="text-gray-500 py-4 max-w-md">
-          I develop robust, scalable applications and <br className='sm:block hidden' />
-          secured API's for Enterprise platforms.
+          <p className=" text-white py-4 max-w-md">
+          I'm a skilled software developer with experience in Java and JavaScript,
+          and expertise in frameworks like SpringBoot, React, and Security.
+          I'm a quick learner and collaborate closely with clients to create efficient,
+          scalable, and user-friendly solutions that solve real-world problems.
           </p>
 
           <div>
