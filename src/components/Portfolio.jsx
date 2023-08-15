@@ -30,7 +30,7 @@ const Portfolio = () => {
       <div className="max-w-screen-lg mx-auto px-4">
         <div className="pb-8">
           <h2 className="text-white font-black md:text-[60px] sm:text-[50px] xs:text-[40px] text-[30px]">
-            Portfolio
+            Projects
           </h2>
           <p className="py-6">Check out some of my work right here</p>
         </div>
